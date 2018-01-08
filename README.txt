@@ -1,3 +1,5 @@
+Python Implementation of Red Eye Correction and Image enhancement functions (grayscale) with a user friendly GUI.
+
 Run the python file through the command - python gui.py 
 
 Instruction to operate GUI:
